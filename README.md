@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyoungsik&show_icons=true&theme=radical)
+
+출처: https://yoon990.tistory.com/38 [개발저장소]
 <div align=center><h1>🛠 Tech Stack 🛠</h1></div>
 
 <div align=center> 

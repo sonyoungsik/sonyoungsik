@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyoungsik)](https://github.com/sonyoungsik/github-readme-stats)
-
-
 <div align=center><h1>🛠 Tech Stack 🛠</h1></div>
 
 <div align=center> 
@@ -42,3 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyoungsik)](https://github.com/sonyoungsik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyoungsik)](https://github.com/sonyoungsik/github-readme-stats)

@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyoungsik)](https://github.com/sonyoungsik/github-readme-stats)
+
+
 <div align=center><h1>🛠 Tech Stack 🛠</h1></div>
 
 <div align=center> 
